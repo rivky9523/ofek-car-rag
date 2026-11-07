@@ -174,5 +174,3 @@ Embeddings use `intfloat/multilingual-e5-small` by default. It runs locally, it'
 *The company and all its data are fictional and were created for this exercise.*
 
 </div>
-#   o f e k - c a r - r a g  
- 
